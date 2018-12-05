@@ -13,7 +13,7 @@ This is a simple example page for the speakers. I'm not a speaker.
 
 |Event|Date|
 |---|---|
-|Space conference|99.99.99
+|Space conference|99.99.99|
 
 ## Video Demo
 
