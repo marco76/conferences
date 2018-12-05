@@ -11,9 +11,9 @@ This is a simple example page for the speakers. I'm not a speaker.
 
 ## Next events
 
-|Event|Date|
-|---|---|
-|Space conference|99.99.99
+| Event | Date |
+| --- | --- |
+| Space conference | 99.99.99 |
 
 ## Video Demo
 
