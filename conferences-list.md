@@ -17,3 +17,4 @@
 |Javaland|https://www.javaland.eu/en/home/|2019-03-19|2019-03-21|Bruehl|Germany|de||
 |JavaDay|https://javaday.istanbul/|2019-03-16|2019-03-16|Istanbul|Turkey|tr||
 |Devoxx FR|https://www.devoxx.fr/|2019-04-17|2019-04-19|Paris|France|fr||
+|DawsCon|https://www.dawsoncollege.qc.ca/dawscon/|2019-01-11|2019-01-11|Montreal|Canada|ca||
