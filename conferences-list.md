@@ -18,3 +18,4 @@
 |JavaDay|https://javaday.istanbul/|2019-03-16|2019-03-16|Istanbul|Turkey|tr||
 |Devoxx FR|https://www.devoxx.fr/|2019-04-17|2019-04-19|Paris|France|fr||
 |DawsCon|https://www.dawsoncollege.qc.ca/dawscon/|2019-01-11|2019-01-11|Montreal|Canada|ca||
+|JCon|https://jcon.one/|2019-09-24|2019-09-26|Düsseldorf|Germany|de|2019-02-28|
